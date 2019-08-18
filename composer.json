@@ -1,0 +1,14 @@
+{
+    "name": "vendor/composer-demo",
+    "description": "Description of project Composer_Demo.",
+    "authors": [
+        {
+            "name": "Banee Ishaque K",
+            "email": "baneeishaque@gmail.com"
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "monolog/monolog": "1.23.0"
+    }
+}
